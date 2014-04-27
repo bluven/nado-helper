@@ -1,36 +1,5 @@
 # nado-helper
 
-FIXME: description
+一个用来项目的数据管理小工具，主要是用来显示redis中的数据。
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar nado-helper-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+暂时只能在控制台使用，后期打算做成web版，虽然直接调用函数很酷，但是还是web用起来舒服点
